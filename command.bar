@@ -1,0 +1,2 @@
+javac PinkSudokuSolver.java
+java PinkSudokuSolver
